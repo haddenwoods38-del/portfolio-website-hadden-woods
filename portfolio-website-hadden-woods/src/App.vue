@@ -35,6 +35,10 @@ import profile from './assets/profile.jpg'
         <p>
           This portfolio will showcase my projects, education, technical skills, and growth as I continue developing my knowledge and experience.
         </p>
+
+        <p>
+          There will be more to come!
+        </p>
       </div>
     </section>
   </div>
